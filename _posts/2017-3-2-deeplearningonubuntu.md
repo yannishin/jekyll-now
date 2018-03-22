@@ -10,7 +10,7 @@
 
 ### Ubuntu 저장소 변경
 
-기본 우분투 저장소(Repository)가 속도가 느려서 ftp.daumkakao.com로 변경(LG 망에선 너무 느려 다운로드가 실패하는 사례도 있음)
+기본 우분투 저장소(Repository)가 속도가 느려서 ftp.daumkakao.com로 변경
 
 ```
 # 백업
