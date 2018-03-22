@@ -73,7 +73,7 @@ sudo apt install nvidia-390 nvidia-390-dev
 nvidia - smi
 ```
 
-![nvidia-smi](/Users/yannishin/Desktop/nvidia-smi.png)
+![nvidia-smi](https://yannishin.github.com/images/nvidia-smi.png)
 
 설치 오류가 있을 경우 빈화면이 나온다.
 
@@ -130,7 +130,7 @@ sudo bash cuda_9.1.85_387.26_linux.run --override
 
 > 아래와 같이 설치하고 드라이버를 설치하지 않도록 설정
 
-![cudatoolkit](/Users/yannishin/Downloads/cudatoolkit.jpg)
+![cudatoolkit](https://yannishin.github.com/images/cudatoolkit.jpg)
 
 
 
