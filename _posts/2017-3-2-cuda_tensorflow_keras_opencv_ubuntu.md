@@ -1,3 +1,11 @@
+---
+
+layout: post
+
+title: Ubuntu 17.10에서 CUDA, cuDNN, Tensorflow, Keras, OpenCV 개발환경 구축
+
+---
+
 # 1.gtx 1080ti 그래픽 드라이버 설치
 
 > 기존 드라이버를 업그레이드 할 경우 CUDA와 호환되지 않아 새로 설치 해야 한다.
